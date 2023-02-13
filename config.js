@@ -46,30 +46,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/nvkenn_'
-global.sgh = 'https://github.com/nvhitori'
-global.sgc = 'https://chat.whatsapp.com/KL2YTdMq2np6QIhas42RCa'
+global.sig = 'https://www.instagram.com/'
+global.sgh = 'https://github.com/RyannAditya'
+global.sgc = 'https://chat.whatsapp.com/I47cTfEwzIC391KPBjbTPq'
 global.sdc = " "
-global.snh = 'https://xhitori.my.id'
+global.snh = 'https://mylinks.id/Fixed.Bot'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082125276167'
-global.povo = '_'
-global.pgopay = '_'
-global.ppulsa = '082125276167'
-global.ppulsa2 = '082125276167'
-global.psaweria = 'https://saweria.co/nvkenn'
+global.pdana = '082350496532'
+global.povo = '082350496532'
+global.pgopay = '0822522851432'
+global.ppulsa = '0822522851432'
+global.ppulsa2 = '082350496532'
+global.psaweria = 'https://saweria.co/jbyannstore'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281323870860'
-global.nomorown = '6282125276167'
-global.namebot = 'XHITORI'
-global.nameown = 'V4LL'
+global.nomorbot = '62822522851430'
+global.nomorown = '62822522851432'
+global.namebot = 'Fixed.Botz'
+global.nameown = 'I Am Yann'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282125276167', 'V4LL', true]
+  ['62822522851432', 'I Am Yann', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,20 +113,20 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 X H 1 T O R I シ」' //Main Watermark
-global.wm2 = '𝐗𝐇𝐈𝐓𝐎𝐑𝐈'
-global.wm3 = '❖ ʜɪᴛᴏʀɪ'
+global.wm = '                「 Fixed.Botz 」' //Main Watermark
+global.wm2 = 'Fixed.Botz'
+global.wm3 = '❖ Fixed.Botz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '✨┊ XH1TORI '
+global.titlebot = '✨┊ Fixed.Team '
 global.author = global.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/bd7978378d54c0fc3afe5.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/08d17dcfd4078ec39dc98.jpg'
-global.thumbbc = 'https://telegra.ph/file/1e562c9d8ef1d3ac6e626.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+global.thumb = 'https://telegra.ph/file/ddbeaae468b8cb9a0eeb8.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/ddbeaae468b8cb9a0eeb8.jpg'
+global.thumbbc = 'https://telegra.ph/file/ddbeaae468b8cb9a0eeb8.jpg' //For broadcast
+global.giflogo = 'https://telegra.ph/file/ddbeaae468b8cb9a0eeb8.jpg'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
@@ -141,7 +141,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/1e562c9d8ef1d3ac6e626.jpg'
+global.thumbdoc = 'https://telegra.ph/file/ddbeaae468b8cb9a0eeb8.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -171,10 +171,10 @@ global.htjava = '𔔮'   //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'XH1TORI'
+global.stickpack = 'Fixed.Botz'
 global.stickauth = `シ`
 
-global.multiplier = 38 // The higher, The harder levelup
+global.multiplier = 18 // The higher, The harder levelup
 
 /*============== EMOJI ==============*/
 global.rpg = {
