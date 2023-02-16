@@ -46,7 +46,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/'
+global.sig = '-'
 global.sgh = 'https://github.com/RyannAditya'
 global.sgc = 'https://chat.whatsapp.com/I47cTfEwzIC391KPBjbTPq'
 global.sdc = " "
@@ -61,9 +61,9 @@ global.ppulsa2 = '082350496532'
 global.psaweria = 'https://saweria.co/jbyannstore'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62822522851430'
+global.nomorbot = '62822522851434'
 global.nomorown = '62822522851432'
-global.namebot = 'Fixed.Botz'
+global.namebot = 'X-One.Botz'
 global.nameown = 'I Am Yann'
 
 
@@ -113,12 +113,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Fixed.Botz 」' //Main Watermark
-global.wm2 = 'Fixed.Botz'
-global.wm3 = '❖ Fixed.Botz'
+global.wm = '                「 X-One.Botz 」' //Main Watermark
+global.wm2 = 'X-One.Botz'
+global.wm3 = '❖ X-One.Botz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '✨┊ Fixed.Team '
+global.titlebot = '✨┊ X-One.Inc'
 global.author = global.wm
 
 
@@ -171,8 +171,8 @@ global.htjava = '𔔮'   //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Fixed.Botz'
-global.stickauth = `シ`
+global.stickpack = 'X-One.Botz'
+global.stickauth = `By X-One Team.Inc\n\n\n© 2021-2023`
 
 global.multiplier = 18 // The higher, The harder levelup
 
